@@ -1,3 +1,2 @@
-// const chalk = require('chalk');
-import chalk from 'chalk'
-console.log(chalk.green('starting application in dev mdoe .....'))
+const chalk = require('chalk');
+console.log(chalk.green('starting application in dev mode .....')) //eslint-disable-ine no-console
